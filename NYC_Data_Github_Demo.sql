@@ -1,0 +1,3 @@
+-- Databricks notebook source
+-- MAGIC %sql
+-- MAGIC use catalog `samples`; select * from `nyctaxi`.`trips` limit 100;
