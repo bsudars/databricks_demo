@@ -1,0 +1,2 @@
+%sql
+use catalog `samples`; select * from `nyctaxi`.`trips` limit 100;
